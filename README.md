@@ -24,7 +24,7 @@ The Premier League Data Visualization project delivers insights into one of the 
 - **Interactive Dashboards**: Filter and drill down to view specific teams, matches, or players.    
 - **Player and Team Metrics**: Analyze stats for individual players and team comparisons.  
 - **Ease of Use**: Specific Visualization tools used to understand the impact of certain factors better.
-- 
+  
 ## How to Use
 
 ### Viewing the Power BI Report
